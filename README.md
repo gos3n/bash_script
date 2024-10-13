@@ -3,7 +3,6 @@
 
 <pre>
 ├── functions
-│   ├── bash_aliases
 │   ├── bash_functions
 │   ├── gitFunc.sh
 │   ├── mkFunc.sh
