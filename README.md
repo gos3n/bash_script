@@ -1,3 +1,7 @@
+# bash_script
+	bash scripts and functions coded for homelab.
+
+<pre>
 ├── functions
 │   ├── bash_aliases
 │   ├── bash_functions
@@ -44,3 +48,5 @@
 │   ├── ytdl-audio.sh
 │   └── ytdlp.sh
 └── README.md
+</pre>
+
