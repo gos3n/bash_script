@@ -1,7 +1,6 @@
 # bash scripts
----
 ###### <b><i>[last update]: </b>12/29/2024</i>
-~~~
+---
 #### functions  
 ├── function_append.sh  
 ├── function_echonote.sh  
