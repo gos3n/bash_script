@@ -38,5 +38,10 @@
 ├── scalp_grep.sh  
 └── scrape_wget.sh  
 
-<p style="text-align:right;"><b><i>[last update]: </b>12/29/2024</i></p>
+<html>
+    <footer style="font-size:75%;text-align:right;">
+        <b><i>[last update]: </b>12/29/2024</i>
+    </footer>
+</html>
+
 
