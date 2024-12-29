@@ -1,7 +1,8 @@
 # bash scripts
 
 > #### functions
-> ├── function_append.sh
+> ├── function_append.sh 
+ 
 > ├── function_echonote.sh
 > ├── function_gacp.sh
 > ├── function_git.sh
