@@ -24,5 +24,5 @@
 └── scrape_wget.sh  
 
 <b>usage:</b> <i>change to directory containing bash scripts.</i>  
-<b>$</b> ``./scriptname.sh``
+<b>$</b> ``./script_name.sh``
 
