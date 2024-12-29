@@ -23,3 +23,5 @@
 ├── scrape_grep.sh  
 └── scrape_wget.sh  
 
+usage: change to directory containing bash scripts.
+<b>$</b> ``./scriptname.sh``
